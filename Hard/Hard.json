@@ -1,0 +1,64 @@
+{
+    "Employees": [
+        {
+            "employeeID": 1,
+            "name": "John Doe",
+            "salary": 50000,
+            "department": "Home"
+        },
+        {
+            "employeeID": 2,
+            "name": "Peter Parker",
+            "salary": 80550,
+            "department": "Toys"
+        },
+        {
+            "employeeID": 3,
+            "name": "Harry Potter",
+            "salary": 46532,
+            "department": "Appliances"
+        },
+        {
+            "employeeID": 4,
+            "name": "Tony Stark",
+            "salary": 1057357,
+            "department": "Auto"
+        },
+        {
+            "employeeID": 5,
+            "name": "Ron Weasley",
+            "salary": 30278,
+            "department": "Clothing"
+        },
+        {
+            "employeeID": 6,
+            "name": "Peter Griffin",
+            "salary": 98357,
+            "department": "Shoes"
+        },
+        {
+            "employeeID": 7,
+            "name": "Charlie Brown",
+            "salary": 67937,
+            "department": "Games"
+        },
+        {
+            "employeeID": 8,
+            "name": "Justin Bieber",
+            "salary": 14729,
+            "department": "Books"
+        },
+        {
+            "employeeID": 9,
+            "name": "Ronald Mcdonald",
+            "salary": 50382,
+            "department": "Electronics"
+        },
+        {
+            "employeeID": 10,
+            "name": "Christopher Robin",
+            "salary": 98600,
+            "department": "Grocery"
+        }
+    ]
+}
